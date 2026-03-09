@@ -7,7 +7,7 @@ const Navbar = () => {
     { name: "Founder's Letter", path: "/founders-letter" },
     { name: "Ceo Letter", path: "/ceo-letter" },
     { name: "What We Do", path: "/what-we-do" },
-    { name: "Impact", path: "/news" },
+    { name: "Impact", path: "/impact" },
     { name: "News & Articles", path: "/investors" },
     { name: "Carrers", path: "/investors" }
   ];
