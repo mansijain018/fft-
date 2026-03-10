@@ -1,5 +1,5 @@
 import React from "react";
-import { MapPin, Map } from "lucide-react";
+import {  Map } from "lucide-react";
 
 const TopBar = () => {
   return (

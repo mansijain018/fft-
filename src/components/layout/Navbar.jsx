@@ -8,8 +8,8 @@ const Navbar = () => {
     { name: "Ceo Letter", path: "/ceo-letter" },
     { name: "What We Do", path: "/what-we-do" },
     { name: "Impact", path: "/impact" },
-    { name: "News & Articles", path: "/investors" },
-    { name: "Carrers", path: "/investors" }
+    { name: "News&Articles", path: "/news-and-articles" },
+    { name: "Careers", path: "/careers" }
   ];
 
   return (
